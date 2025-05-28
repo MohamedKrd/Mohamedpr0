@@ -4,7 +4,7 @@
 <img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedpr0&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedpr0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedpr0" alt="mohamedpr0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedkrd" alt="mohamedkrd" /></a> </p>
  
 
 - 🌱 I’m currently learning **JS**
