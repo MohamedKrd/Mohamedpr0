@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python for backend, HTML&CSS for frontend**
 
-- 📫 How to reach me **@mohamedkrd**
+- 📫 How to reach me **@mohamed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
